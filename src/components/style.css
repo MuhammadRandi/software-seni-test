@@ -1,0 +1,17 @@
+.navbar {
+    color: white;
+    padding: 20px;
+    background-color:#767676;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.item {
+    display:flex;
+    justify-content: center;
+    padding: 20px 0;
+}
