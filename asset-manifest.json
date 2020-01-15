@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/software-seni-test/static/css/main.0abb7682.chunk.css",
+    "main.js": "/software-seni-test/static/js/main.1d8e8cea.chunk.js",
+    "main.js.map": "/software-seni-test/static/js/main.1d8e8cea.chunk.js.map",
+    "runtime-main.js": "/software-seni-test/static/js/runtime-main.3d1d2bb3.js",
+    "runtime-main.js.map": "/software-seni-test/static/js/runtime-main.3d1d2bb3.js.map",
+    "static/css/2.9557b1c0.chunk.css": "/software-seni-test/static/css/2.9557b1c0.chunk.css",
+    "static/js/2.077968eb.chunk.js": "/software-seni-test/static/js/2.077968eb.chunk.js",
+    "static/js/2.077968eb.chunk.js.map": "/software-seni-test/static/js/2.077968eb.chunk.js.map",
+    "index.html": "/software-seni-test/index.html",
+    "precache-manifest.275eb70a5533a5ebe6c64a5acd56f544.js": "/software-seni-test/precache-manifest.275eb70a5533a5ebe6c64a5acd56f544.js",
+    "service-worker.js": "/software-seni-test/service-worker.js",
+    "static/css/2.9557b1c0.chunk.css.map": "/software-seni-test/static/css/2.9557b1c0.chunk.css.map",
+    "static/css/main.0abb7682.chunk.css.map": "/software-seni-test/static/css/main.0abb7682.chunk.css.map",
+    "static/js/2.077968eb.chunk.js.LICENSE": "/software-seni-test/static/js/2.077968eb.chunk.js.LICENSE",
+    "static/media/semantic.min.css": "/software-seni-test/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d1d2bb3.js",
+    "static/css/2.9557b1c0.chunk.css",
+    "static/js/2.077968eb.chunk.js",
+    "static/css/main.0abb7682.chunk.css",
+    "static/js/main.1d8e8cea.chunk.js"
+  ]
+}
